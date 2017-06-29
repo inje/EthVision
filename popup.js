@@ -15,7 +15,6 @@ const calculateEth = () => {
   if (!valFloat) return 'Please input a valid number';
   const priceFloat = parseFloat(price);
   const resVal = valFloat * priceFloat;
-  console.log(resVal);
   return '$' + resVal.toLocaleString();
 };
 
