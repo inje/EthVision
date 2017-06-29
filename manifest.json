@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "EthVision",
-  "description": "An extension for seeing Ethereum price data.",
+  "description": "An extension for seeing real-time Ethereum price data from Coinbase.",
   "version": "0.1",
   "background": {
     "scripts": ["background.js"]

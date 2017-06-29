@@ -62,12 +62,36 @@ h2 {
   outline-width: 0;
 }
 
-#main {
+#donation-opened {
+	display: none;
+}
+
+.container {
 	background-color: white;
 	padding: 10px;
+}
+
+.container-mg-top {
+	margin-top: 5px;
+}
+
+.img-eth-address {
+	display: block;
+	height: auto;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+	width: 50%;
+}
+
+.text-action {
+	color: #1D75B7;
 }
 
 .text-heading {
 	text-align: center;
 }
 
+.text-wrap {
+	overflow-wrap: break-word;
+}
