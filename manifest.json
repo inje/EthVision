@@ -12,7 +12,7 @@
     "default_title": "EthVision"
   },
   "icons": { 
-  	"16": "img/eth-16.png",
+    "16": "img/eth-16.png",
     "48": "img/eth-48.png",
     "128": "img/eth-128.png"
   },

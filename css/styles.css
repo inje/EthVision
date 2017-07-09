@@ -3,11 +3,11 @@
  */
 
 body {
-	font-family: 'Poppins', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
-	width: 300px;
-	color: #3E4552;
-	margin: 20px;
-	margin-top: 10px;
+  font-family: 'Poppins', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  width: 300px;
+  color: #3E4552;
+  margin: 20px;
+  margin-top: 10px;
   background: #1D75B7; /* For browsers that do not support gradients */
   background: -webkit-linear-gradient(#1D75B7, #105587); /* For Safari 5.1 to 6.0 */
   background: -o-linear-gradient(#1D75B7, #105587); /* For Opera 11.1 to 12.0 */
@@ -16,27 +16,27 @@ body {
 }
 
 h1 {
-	color: white;
-	font-size: 32px;
-	font-weight: 400;
-	margin-top: 0;
-	margin-bottom: 0;
-	padding-top: 0;
-	padding-bottom: 0;
+  color: white;
+  font-size: 32px;
+  font-weight: 400;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 h2 {
-	font-size: 11px;
-	font-weight: 400;
-	margin-top: 0;
-	margin-bottom: 0;
-	padding-top: 0;
+  font-size: 11px;
+  font-weight: 400;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
 }
 
 #eth-input {
-	padding: 5px;
-	border: 1px solid #DDD;
-	border-radius: 10px;
+  padding: 5px;
+  border: 1px solid #DDD;
+  border-radius: 10px;
 }
 
 #eth-input:focus {
@@ -44,14 +44,14 @@ h2 {
 }
 
 #calculate-btn {
-	background-color: #1D75B7;
-	border: none;
-	border-radius: 10px;
-	color: white;
-	padding-top: 8px;
-	padding-bottom: 8px;
-	padding-left: 15px;
-	padding-right: 15px;
+  background-color: #1D75B7;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 14px;
+  padding-right: 14px;
 }
 
 #calculate-btn:active {
@@ -63,35 +63,35 @@ h2 {
 }
 
 #donation-opened {
-	display: none;
+  display: none;
 }
 
 .container {
-	background-color: white;
-	padding: 10px;
+  background-color: white;
+  padding: 10px;
 }
 
 .container-mg-top {
-	margin-top: 5px;
+  margin-top: 5px;
 }
 
 .img-eth-address {
-	display: block;
-	height: auto;
-	margin-right: auto;
-	margin-left: auto;
-	margin-top: 10px;
-	width: 50%;
+  display: block;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10px;
+  width: 50%;
 }
 
 .text-action {
-	color: #1D75B7;
+  color: #1D75B7;
 }
 
 .text-heading {
-	text-align: center;
+  text-align: center;
 }
 
 .text-wrap {
-	overflow-wrap: break-word;
+  overflow-wrap: break-word;
 }
